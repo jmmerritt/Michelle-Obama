@@ -1,0 +1,38 @@
+body{
+    background-color: #6a0dad;
+}
+
+.menu {
+    display:flex;
+    justify-content: center;
+    background-color: #D3D3D3;
+    border: 12px solid black;
+    padding:10px;
+    margin:5px;
+}
+
+.Obama{
+    display: flex;
+    justify-content: center;
+    background-color: #FFFFFF;
+    border: 3px solid black; 
+    margin: 5px;
+    padding: 8px;
+    color:#6a0dad;
+}
+
+.M {
+    display: flex; 
+        justify-content: center;
+    background-color: #000000;
+    border: 5px solid white;
+    margin: 20px;
+    padding: 10px;
+    color:#add8e6;
+}
+
+img{ 
+    width: 300px;
+    display:block;
+}
+
